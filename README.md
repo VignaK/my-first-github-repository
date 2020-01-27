@@ -9,3 +9,5 @@ This line Midified Manually during conflicts resolution.
 Another Local change . Locally Modified
 
 This line was added in the feature-2 branch
+
+Another Modification in feature-2
